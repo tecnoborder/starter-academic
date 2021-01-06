@@ -8,7 +8,7 @@ authors:
   - Adriano Fontanari
   - Marta Gaia Zanchi
 image:
-  filename: notte-al-muse-con-coscienza-440.jpg
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
