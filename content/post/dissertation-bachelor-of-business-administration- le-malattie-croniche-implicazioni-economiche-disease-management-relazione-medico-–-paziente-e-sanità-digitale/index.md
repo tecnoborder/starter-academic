@@ -1,5 +1,5 @@
 ---
-title: "**\\[DISSERTATION - Bachelor of Business Administration]** Le malattie
+title: "[DISSERTATION - Bachelor of Business Administration] - Le malattie
   croniche: implicazioni economiche, disease management, relazione medico –
   paziente e sanità digitale"
 subtitle: "Supervisor: Prof. Alessandro Rossi"
