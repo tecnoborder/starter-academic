@@ -1,6 +1,6 @@
 ---
 title: Adriano Fontanari
-role: Professor of Artificial Intelligence
+role: Health Tech Innovation
 avatar_filename: rsz_71151113_2388993554482137_6350267025838833664_o.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
