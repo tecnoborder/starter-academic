@@ -11,7 +11,7 @@ event: "Speck&Tech #38 - Healthcare Data"
 event_url: https://speckand.tech/2020/02/healthcare-data/
 publishDate: 2021-01-06T18:43:52.697Z
 draft: false
-featured: false
+featured: true
 authors:
   - "Organised with: EIT Health Alumni"
   - Speck&Tech
