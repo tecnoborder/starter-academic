@@ -16,7 +16,10 @@
 theme = "minimal"
 
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
+
+#logo
+logo = "logo.png"
 
 # Override the theme's font set (optional).
 #   Guide to font sets: https://wowchemy.com/docs/customization/#fonts
@@ -46,7 +49,6 @@ local_business_type = ""
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
 org_name = ""
-
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
 
