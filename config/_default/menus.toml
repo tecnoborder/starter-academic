@@ -13,7 +13,7 @@
   url = "#posts"
   weight = 20
 
-[[main]]
+#[[main]]
   name = "Projects"
   url = "#projects"
   weight = 30
@@ -23,12 +23,12 @@
   url = "#talks"
   weight = 40
 
-[[main]]
+#[[main]]
   name = "Publications"
   url = "#featured"
   weight = 50
 
-[[main]]
+#[[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
