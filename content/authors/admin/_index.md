@@ -1,6 +1,6 @@
 ---
 title: Adriano Fontanari
-role: Health Tech Innovation
+role: Business Development Associate @PatchAi | Health Tech innovation
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -17,21 +17,18 @@ social:
     link: https://twitter.com/adryhealth
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/adrianofontanari
+    link: https://www.linkedin.com/in/adrianofontanari/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: PatchAi
+    url: https://patchai.io/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc In Innovation Management
+      institution: Scuola Superiore Sant'Anna Pisa, University of Trento
+      year: 2019
+    - course: Bachelor of Business Administration (BBA)
+      institution: University of Trento
+      year: 2019
 email: ""
 superuser: true
 highlight_name: false
