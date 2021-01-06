@@ -25,14 +25,12 @@ education:
   courses:
     - course: MSc In Innovation Management
       institution: Scuola Superiore Sant'Anna Pisa, University of Trento
-      year: 2019
+      year: 2020
     - course: Bachelor of Business Administration (BBA)
       institution: University of Trento
-      year: 2019
+      year: 2018
 email: ""
 superuser: true
 highlight_name: false
 ---
-I work at the intersection of Healthcare and Technology, with a strong interest in Health Tech, Digital biomarkers, and Biodesign. 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I work at the intersection of Healthcare and Technology, with a strong interest in Health Tech, Digital biomarkers, and Biodesign.
