@@ -1,7 +1,7 @@
 ---
 title: "[INTERVIEW] Meet Impactscool’s Ambassadors: Adriano Fontanari"
 subtitle: Published on: Impactscool
-date: 2021-01-06T18:43:02.067Z
+date: 2021-01-05T18:43:02.067Z
 draft: false
 featured: false
 image:
