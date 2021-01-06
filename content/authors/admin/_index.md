@@ -1,5 +1,5 @@
 ---
-title: Nelson Bighetti
+title: Adriano Fontanari
 role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
