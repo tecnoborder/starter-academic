@@ -1,6 +1,7 @@
 ---
 title: Adriano Fontanari
 role: Professor of Artificial Intelligence
+avatar_filename: 71151113_2388993554482137_6350267025838833664_o.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
