@@ -1,5 +1,6 @@
 ---
 title: "Small Individual Actions Have a Huge Impact For all. #itsuptoUs"
+subtitle: Published on: EIT Health Alumni
 date: 2021-01-06T18:49:44.356Z
 draft: false
 featured: false
