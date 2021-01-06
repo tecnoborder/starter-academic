@@ -2,8 +2,8 @@
 title: Adriano Fontanari
 role: Business Development Associate @PatchAi | Health Tech innovation
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: I work at the intersection of Healthcare and Technology, with a strong
+  interest in Health Tech, Digital biomarkers, and Biodesign.
 interests:
   - HealthTech
   - Digitalbiomarkers
