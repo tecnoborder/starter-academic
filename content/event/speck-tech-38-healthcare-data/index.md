@@ -1,5 +1,5 @@
 ---
-title: "Speck&Tech #38 - Healthcare Data"
+title: Speck&Tech 38 - Healthcare Data
 abstract: |-
   Speck&Tech #38 - Healthcare Data, 
   https://www.youtube.com/watch?v=FrxxVUWuK4g&ab_channel=Speck%26Tech
