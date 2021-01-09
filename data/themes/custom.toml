@@ -1,0 +1,21 @@
+Originale
+Blame
+Cronologia
+# Theme metadata
+name = "custom"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#8c1515"
+
+# Menu
+menu_primary = "#8c1515"
+menu_text = "#fff"
+menu_text_active = "rgb(140, 21, 21)"
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "#fff"
+home_section_even = "#fff"
